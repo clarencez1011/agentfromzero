@@ -1,3 +1,6 @@
+<p align="center">
+  <strong>简体中文</strong> · <a href="./README_en.md">English</a>
+</p>
 
 ---
 
@@ -20,7 +23,7 @@
 如果它刚好也能帮你学到一些东西，那这个仓库就算没有白建。
 
 
-&emsp;&emsp;就这样，希望可以帮到你。
+就这样，希望这里可以帮到你。
 
 ### ✨ 你将收获什么？
 
@@ -52,4 +55,3 @@
 | 论文 | 作者与发表信息 |
 | --- | --- |
 | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) | Shunyu Yao., 2022;|
-

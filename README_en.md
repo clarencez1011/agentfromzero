@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="./README.md">简体中文</a> · <strong>English</strong>
+</p>
 
 ---
 
@@ -5,7 +8,7 @@
 
 Near the end of 2025, I started learning about AI agents. I found the topic interesting and decided to explore it on my own.
 
-I know myself: if I don't have somewhere to track my progress, it's easy to lose focus and put things off. I started this repository to keep myself moving, write down what I learn, and make sense of the learning path as I go.
+I'm kind of the person that if I don't have somewhere to track my progress, it's easy to lose focus and put things off. I started this repository to keep myself moving, write down what I learn, and make sense of the learning path as I go.
 
 Along the way, I realized I wasn't the only one trying to get into the field. Some people already know how to build software; others are starting without ever having written a line of code.
 
